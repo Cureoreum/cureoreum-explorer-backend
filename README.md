@@ -80,7 +80,7 @@ Before running Cureoreum, ensure you have the following installed:
     ```
 
     Alternatively, we supply a rpc stand in server as an option to using the standard rpc.
-
+    https://github.com/Cureoreum/cureoreum-cure-rpc
 ## ▶️ Usage
 
 ### Starting the Service
